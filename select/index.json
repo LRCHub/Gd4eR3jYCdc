@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "バブル",
+  "base_artist": "higma",
+  "createdAt": "2026-02-06T19:31:35.409255Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バブル・ガン",
+      "artist": "Seina",
+      "has_synced": false,
+      "path": "select/01_バブル・ガン_Seina.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バブル",
+      "artist": "Shonan No Kaze",
+      "has_synced": true,
+      "path": "select/02_バブル_Shonan_No_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "バブル - Bubble",
+      "artist": "Shounanno Kaze",
+      "has_synced": true,
+      "path": "select/03_バブル_-_Bubble_Shounanno_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "03_記録音声：プール・サイド・バブル",
+      "artist": "SukeraSono",
+      "has_synced": true,
+      "path": "select/04_03_記録音声_プール・サイド・バブル_SukeraSono.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バブル",
+      "artist": "higma",
+      "has_synced": false,
+      "path": "select/pl_01_バブル_higma.txt"
+    }
+  ]
+}
